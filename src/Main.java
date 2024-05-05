@@ -59,5 +59,12 @@ public class Main {
         var allPeople = result4 + 94;
         System.out.println("Если в компании работает " + allPeople + " человек, то всего 640 часов работы может быть поделено между сотрудниками");
 
+        var oneApple = 1;
+        System.out.println(oneApple);
+        var twoAplle = 2;
+        System.out.println(twoAplle);
+        var result5 = oneApple + twoAplle;
+        System.out.println("Всего яблок получается " + result5 + " еденицы");
+
     }
 }
